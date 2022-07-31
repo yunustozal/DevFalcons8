@@ -1,0 +1,1 @@
+Select id, Name, MailingCity from Contact WHERE MailingCity = ''

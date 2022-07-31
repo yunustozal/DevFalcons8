@@ -1,0 +1,1 @@
+select id, name, CreatedDate from Account Where createdDate = LAST_90_DAYS ORDER BY CreatedDate DESC
